@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:01:58 +0800] "GET /travel/login.html HTTP/1.1" 200 4369 http-bio-80-exec-8 4
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:01:58 +0800] "GET /travel/images/login_logo.png HTTP/1.1" 404 949 http-bio-80-exec-8 2
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:01:58 +0800] "GET /travel/checkCode HTTP/1.1" 200 287 http-bio-80-exec-3 13
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:01:58 +0800] "GET /travel/user/find HTTP/1.1" 200 53 http-bio-80-exec-3 3
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:01:58 +0800] "GET /travel/category/findAll HTTP/1.1" 200 258 http-bio-80-exec-8 4
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:02:14 +0800] "POST /travel/user/login HTTP/1.1" 200 75 http-bio-80-exec-8 908
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:03:26 +0800] "GET /travel/login.html HTTP/1.1" 200 4378 http-bio-80-exec-5 4
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:03:26 +0800] "GET /travel/images/login_logo.png HTTP/1.1" 404 949 http-bio-80-exec-5 2
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:03:26 +0800] "GET /travel/checkCode HTTP/1.1" 200 282 http-bio-80-exec-4 16
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:03:26 +0800] "GET /travel/user/find HTTP/1.1" 200 53 http-bio-80-exec-4 2
+0:0:0:0:0:0:0:1 - - [08/May/2019:00:03:26 +0800] "GET /travel/category/findAll HTTP/1.1" 200 258 http-bio-80-exec-5 98
